@@ -7,7 +7,7 @@
 On the frontend we have 3 diffrent routes: 
 - Login page
 - Dashboard with all users list (*admins also will have add new user form)
-- User profile page (*only available for admins)
+- User profile page to edit or delete (*only available for admins)
 
 On the backend we have a server with express and crud apis. \
 Passwords are encrypted with brypt library. \
