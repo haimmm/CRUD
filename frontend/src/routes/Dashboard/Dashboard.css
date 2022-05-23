@@ -1,0 +1,36 @@
+.usersList {
+    width: 60%;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.usersList li {
+    width:100%;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+}
+
+.usersList li > * {
+    width: 25%;
+}
+
+.addUserContainer{
+    width: 25%;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.addUserContainer div {
+    width: 100%;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
