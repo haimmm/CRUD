@@ -1,7 +1,7 @@
 # Crud Application
 
 ## Technologies
-**Frontend:** React, React-router, axios, MUI (Buttons)
+**Frontend:** React, React-router, axios, MUI (Buttons) \
 **Backend:** NodeJS, express, MySQL, ByCrypt, JWT
 
 On the frontend we have 3 diffrent routes: 
